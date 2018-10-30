@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":"AAAA,cAAc,0BAA0B,CAAC;AACzC,cAAc,iCAAiC,CAAC;AAChD,cAAc,gCAAgC,CAAC","sourcesContent":["export * from './ionic-formlogin.module';\r\nexport * from './components/formloin-component';\r\nexport * from './providers/formlogin-provider';"]}
